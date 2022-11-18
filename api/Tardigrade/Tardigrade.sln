@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tardigrade.Api", "Tardigrade.Api\Tardigrade.Api.csproj", "{7C455CA6-F2B1-4C67-A16D-D8223F610304}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tardigrade.Logic", "Tardigrade.Logic\Tardigrade.Logic.csproj", "{FEB672F8-D0A3-4C98-B939-5E1BAE5B54E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C455CA6-F2B1-4C67-A16D-D8223F610304}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C455CA6-F2B1-4C67-A16D-D8223F610304}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C455CA6-F2B1-4C67-A16D-D8223F610304}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C455CA6-F2B1-4C67-A16D-D8223F610304}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEB672F8-D0A3-4C98-B939-5E1BAE5B54E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEB672F8-D0A3-4C98-B939-5E1BAE5B54E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEB672F8-D0A3-4C98-B939-5E1BAE5B54E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEB672F8-D0A3-4C98-B939-5E1BAE5B54E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D0ADFE8-069B-43A4-B7BB-5A5FBF976223}
+	EndGlobalSection
+EndGlobal
